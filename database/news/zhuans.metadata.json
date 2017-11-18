@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"news.zhuans"},{"v":1,"unique":true,"key":{"zhuan_id":1},"name":"zhuan_id_1","ns":"news.zhuans","background":true}]}
